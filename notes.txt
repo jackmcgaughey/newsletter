@@ -1,0 +1,2 @@
+I want the user to be able to design their own subscription plan, this is more or less a way for them
+to permote their own buisness.
